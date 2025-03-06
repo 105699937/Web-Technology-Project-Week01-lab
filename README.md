@@ -1,2 +1,5 @@
 # lab01
-I will learn all about html 
+```html
+<life> Life is full of surprises </life>
+<!-- Haha  -->
+```
